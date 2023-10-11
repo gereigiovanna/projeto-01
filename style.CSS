@@ -5,3 +5,9 @@ p{
 #iIMAGEM1{
     width: 500px;
 }
+
+.conteudo-listas{
+background-color: bisque;
+color: black;
+text-decoration: italic;
+}
