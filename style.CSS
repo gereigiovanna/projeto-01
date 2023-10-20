@@ -18,5 +18,11 @@ p{
 .conteudo-listas{
 background-color: bisque;
 color: black;
-text-decoration: italic;
+text-decoration: italic
+}
+.rodape{
+    background-color: darksalmon;
+    color: antiquewhite;
+    text-align: center;
+    border: double 2px darksalmon;
 }
