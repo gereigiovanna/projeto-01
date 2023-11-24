@@ -7,6 +7,13 @@
     color: black;
     text-align: center;
 }
+
+#link{
+    font-size: 20px;
+    color: rgb(202, 142, 69);
+    text-decoration: none;
+}
+
 p{
     text-align: center;
     color: black;
